@@ -1,0 +1,45 @@
+#navbar-title {
+    color: white;
+    font-size: x-large;
+}
+
+#navbar-txt {
+    color: white;
+    font-size: large;
+}
+
+#btn-wtsp {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#texto {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom-color: orange;
+    border-bottom-width: 3px;
+    border-bottom-style: groove;
+}
+
+#contenedor-img {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#border-radius{
+    border-radius: 20px;
+}
+
+#linea {
+    color: #000000;
+    text-decoration: none;
+}
+
+#footer {
+    margin-top: 20px;
+}
+
+#redes {
+    color: black;
+    font-size: 30px;
+}
